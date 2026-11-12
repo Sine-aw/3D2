@@ -424,17 +424,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 458948124}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 52ac7021c7a3f924ab354b996f3b6f3a, type: 3}
+  m_Script: {fileID: 11500000, guid: e1e96932bb500d14f8bfd95b9ae7e8ff, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::RewardCalc
-  playSeconds: 3725
-  gold: 1234
-  members: 4
-  kills: 7
-  expPerKill: 35
-  totalDamage: 250
-  hits: 20
-  expRate: 1.5
+  m_EditorClassIdentifier: Assembly-CSharp::LevelSystem
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
